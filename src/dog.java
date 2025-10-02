@@ -25,6 +25,6 @@ class Dog implements Animal {
 	 */
 	@Override
 	public String toString() {
-		return "duck";
+		return "dog";
 	}
 }
